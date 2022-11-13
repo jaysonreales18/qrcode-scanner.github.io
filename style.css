@@ -6,8 +6,8 @@
 }
 
 body {
-	display: flex;
-	align-items: center;
+    display: flex;
+    align-items: center;
     justify-content: center;
     padding: 0 10px;
     background-color: #1d4ed8;
@@ -15,7 +15,7 @@ body {
 }
 
 .wrapper {
-    height: 270px;
+    height: 310px;
     width: 420px;
     background-color: #fff;
     border-radius: 7px;
